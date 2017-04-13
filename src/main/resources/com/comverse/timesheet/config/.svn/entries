@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2012-08-13T01:56:45.440250Z"
+   url="https://202.115.137.175/svn/TimeSheet/TimeSheet/src/main/resources/com/comverse/timesheet/config"
+   last-author="yuanmomo"
+   kind="dir"
+   repos="https://202.115.137.175/svn/TimeSheet"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="ApplicationContext.xml"
+   text-time="2012-08-10T10:20:56.089328Z"
+   committed-date="2012-08-13T01:56:45.440250Z"
+   checksum="5f0bf2d47f9c5304f27ffde51c4458b1"
+   last-author="yuanmomo"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="dispatcher-servlet.xml"
+   text-time="2012-08-10T07:00:21.354844Z"
+   committed-date="2012-08-13T01:56:45.440250Z"
+   checksum="28ef802dc078b86988fd62e6a55f6611"
+   last-author="yuanmomo"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="ImplAndBusinessBeans.xml"
+   text-time="2012-08-13T01:19:43.142194Z"
+   committed-date="2012-08-13T01:56:45.440250Z"
+   checksum="c3f32c211881b2e6750e4f295f6b0df1"
+   last-author="yuanmomo"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="log4j.properties"
+   text-time="2012-08-10T06:43:30.483624Z"
+   committed-date="2012-08-13T01:56:45.440250Z"
+   checksum="5614f6139fde23305a2237ca92e3f1ea"
+   last-author="yuanmomo"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="jdbc.properties"
+   text-time="2012-08-10T03:20:11.552296Z"
+   committed-date="2012-08-13T01:56:45.440250Z"
+   checksum="5cdae5380fba744751c44ff2640e1406"
+   last-author="yuanmomo"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2012-08-13T01:56:45.440250Z"
+   url="https://202.115.137.175/svn/TimeSheet/TimeSheet/src/main/resources/com"
+   last-author="yuanmomo"
+   kind="dir"
+   repos="https://202.115.137.175/svn/TimeSheet"
+   revision="2"/>
+<entry
+   name="comverse"
+   kind="dir"/>
+</wc-entries>
