@@ -13,6 +13,6 @@ execute
 
 资料1： 
 
-[原文地址](#http://yuanmomo.net/archives/449#comment-207)
+[原文地址](http://yuanmomo.net/archives/449#comment-207)
 
-[文章出处](#http://yuanmomo.net)
+[文章出处](http://yuanmomo.net)
